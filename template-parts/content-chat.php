@@ -1,0 +1,1 @@
+<h1>Blog Single Page (Post-Format-Chat)</h1>

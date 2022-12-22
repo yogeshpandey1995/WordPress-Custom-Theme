@@ -1,0 +1,1 @@
+<h1>Blog Post Page (Post-Format-None)</h1>

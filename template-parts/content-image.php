@@ -1,0 +1,1 @@
+<h1>Blog Single Page (Post-Format-Image)</h1>
